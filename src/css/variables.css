@@ -1,0 +1,20 @@
+:root{
+    --background-color: hsl(212, 45%, 89%);
+    --paragraph-color: hsl(216, 15%, 48%);
+    --title-color: hsl(218, 44%, 22%);
+
+    /* Text Preset 1 BOLD */
+
+    --font-size1: 2.2rem;
+    --line-height1: 120%;
+    --letter-spacing1: 0;
+    --font-weight1: 700;
+
+    /* Text Preset 2 REGULAR*/
+
+    --font-size2: 1.5rem;
+    --line-height2: 140%;
+    --letter-spacing2: 0.2rem;
+    --font-weight2: 400;
+
+}
